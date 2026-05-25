@@ -1,0 +1,4 @@
+- [x] Move Google Fonts import out of `src/styles.css` into `index.html`
+- [x] Reorder `src/styles.css` directives so all `@import` occur before other statements (besides allowed exceptions)
+- [x] Re-run `npm run build`
+- [x] Re-run `npm run lint`
